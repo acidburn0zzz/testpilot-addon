@@ -134,9 +134,9 @@ markdown==2.6.2 \
 django-filter==0.11.0 \
     --hash=sha256:7d17547b65216cc5c6fbc04aee55088ccd5917c0775304d96f7017c26c789cd7 \
     --hash=sha256:00cc47935afbbd83260fdd283b0aa790e658d2a71922049f6e467dca8a124537
-djangorestframework==3.2.3 \
-    --hash=sha256:09842ecb1c7c38e5a666c04bcfa924f682ef1e82d9c84080f19c28b771d080c5 \
-    --hash=sha256:41dab5727ee1aeb3d5b28a126ad0d28fbf80f832382cdaa3f078113f1e24771a
+djangorestframework==3.11.2 \
+    --hash=sha256:5cc724dc4b076463497837269107e1995b1fbc917468d1b92d188fd1af9ea789 \
+    --hash=sha256:a5967b68a04e0d97d10f4df228e30f5a2d82ba63b9d03e1759f84993b7bf1b53
 datadog==0.9.0 \
     --hash=sha256:95ca871e2addd59eca5e3b3be61eaff3f669c7460e57a8ceb3c8f9bb6dfc0d34
 simplejson==3.8.0 \
