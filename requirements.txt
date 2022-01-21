@@ -60,11 +60,9 @@ pyflakes==0.9.2 \
 mccabe==0.3.1 \
     --hash=sha256:bd6c080fb372aebcb0ce19e35ddac744f2abf5a7befa207db2d1097d48efe63a \
     --hash=sha256:5f7ea6fb3aa9afe146d07fd6d5cedf788747d8b0c29e44732453c2b2db1e3d16
-ipython==3.2.0 \
-    --hash=sha256:5645b311f2ebcd2b54dcd993c0b6ad2eb5cad90f5f2fe3d45c184c843f44d407 \
-    --hash=sha256:e6790c69428fa6c3e0e4d633e26ad178970e468baffe03a98629054bdb84308e \
-    --hash=sha256:8e64b441e16298c08025b826126b2d7bc5c1776d2d2f071672166f615f327887 \
-    --hash=sha256:31f5d4e65ac0e72a7eafc31ecb95ab7c981bb49ed314b69311bca45c6ab8facb
+ipython==7.16.3 \
+    --hash=sha256:c0427ed8bc33ac481faf9d3acf7e84e0010cdaada945e0badd1e2e74cc075833 \
+    --hash=sha256:5ac47dc9af66fc2f5530c12069390877ae372ac905edca75a92a6e363b5d7caa
 ipdb==0.8.1 \
     --hash=sha256:1763d1564113f5eb89df77879a8d3213273c4d7ff93dcb37a3070cdf0c34fd7c
 docutils==0.12 \
